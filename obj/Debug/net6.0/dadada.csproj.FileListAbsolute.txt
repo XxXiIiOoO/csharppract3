@@ -1,0 +1,14 @@
+C:\Users\xacha\source\repos\dadada\dadada\bin\Debug\net6.0\dadada.exe
+C:\Users\xacha\source\repos\dadada\dadada\bin\Debug\net6.0\dadada.deps.json
+C:\Users\xacha\source\repos\dadada\dadada\bin\Debug\net6.0\dadada.runtimeconfig.json
+C:\Users\xacha\source\repos\dadada\dadada\bin\Debug\net6.0\dadada.dll
+C:\Users\xacha\source\repos\dadada\dadada\bin\Debug\net6.0\dadada.pdb
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\dadada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\dadada.AssemblyInfoInputs.cache
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\dadada.AssemblyInfo.cs
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\dadada.csproj.CoreCompileInputs.cache
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\dadada.dll
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\refint\dadada.dll
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\dadada.pdb
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\dadada.genruntimeconfig.cache
+C:\Users\xacha\source\repos\dadada\dadada\obj\Debug\net6.0\ref\dadada.dll
